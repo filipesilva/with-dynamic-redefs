@@ -11,7 +11,7 @@ Inspired by https://github.com/mourjo/dynamic-redef and https://gist.github.com/
 
 ```clojure
 io.github.filipesilva/with-dynamic-redefs {:git/tag "v1.0.0"
-                                           :git/sha "123abcd"}
+                                           :git/sha "bb8a4906204db284b320133cf3bae8cc7d870bb5"}
 ```
 
 Usage:
